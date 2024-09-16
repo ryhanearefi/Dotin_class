@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9069a1f-e44b-4e36-8de5-81ead8f3f98e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lecture-09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-09/Lecture-09/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-09/Lecture-09/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/Lecture11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/Lecture11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/MyGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/MainLecture10/MyGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Classroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/ContractType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/ContractType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/DepartmentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/DepartmentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/Lecture-10/src/test/person/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tamrin55/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tamrin55/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tamrin55/Tamrin/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Tamrin55/Tamrin/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jPsY4Ru4N7jiTXw5MyuK7THt4A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/git_DotinClass/Tamrin33333",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/reyhane/Desktop/git_DotinClass/Tamrin33333/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9069a1f-e44b-4e36-8de5-81ead8f3f98e" name="Changes" comment="" />
+      <created>1721300091994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721300091994</updated>
+      <workItem from="1721300093047" duration="7789000" />
+      <workItem from="1721731069878" duration="5806000" />
+      <workItem from="1721741409157" duration="48000" />
+      <workItem from="1725967621219" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
