@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2593b46d-c1ad-4366-9581-f8ca99370198" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sampleapi/src/main/java/com/springrest/sampleapi/api/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sampleapi/src/main/java/com/springrest/sampleapi/api/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sampleapi/src/main/java/com/springrest/sampleapi/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Faculty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Faculty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lecture-Uni/University/src/main/java/org/example/entity/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ryhanearefi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ryhanearefi/Dotin_class.git",
+    "accountId": "7fb0f7c8-5f8b-467b-b354-9088dc1664c6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2m9vGokwV7fBro11ddwQJliGrzt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ryhanearefi/IdeaProjects/ApiTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2593b46d-c1ad-4366-9581-f8ca99370198" name="Changes" comment="" />
+      <created>1726501514398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726501514398</updated>
+      <workItem from="1726501515487" duration="4704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
